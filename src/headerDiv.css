@@ -1,0 +1,19 @@
+.header-div{
+    display: flex;
+    align-items: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    height: 80px;
+}
+.hp1{
+    margin-left: 180px;
+    margin-right: 550px;
+    font-size: 24px;
+    color: white;
+}
+.hp2{
+    margin-right: 20px;
+}
+.hp3{
+    margin-right: 20px;
+}
