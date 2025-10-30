@@ -1,0 +1,45 @@
+.m2-div{
+    height: 460px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+.m2-div-container1{
+    margin-top: 45px;
+    margin-bottom: 45px;
+    color: #1f2937
+
+}
+.m2-div-container2{
+    display: flex;
+    flex-direction: row;
+
+}
+.m2-div-container3{
+    margin-top: 25px;
+    margin-left: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+
+     
+}
+.info-box{
+    border-radius: 8px;
+    width: 150px;
+    height: 150px;
+    margin-left: 35px;
+
+    border: solid, 4px, #3c82f5; 
+
+}
+.info-text{
+    width: 160px;
+    height: 150px;
+    margin-left: 35px;
+    text-align: center;
+    color: #58595a;
+
+}
